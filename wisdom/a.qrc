@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img/1.jpg</file>
+        <file>img/2.jpg</file>
+        <file>img/3.jpg</file>
+        <file>img/4.jpg</file>
+        <file>img/5.png</file>
+        <file>img/6.png</file>
+        <file>img/7.jpg</file>
+        <file>img/8.png</file>
+        <file>img/9.jpg</file>
+        <file>img/10.png</file>
+        <file>img/add.png</file>
+        <file>img/assistant.png</file>
+        <file>img/back.png</file>
+        <file>img/clock.png</file>
+        <file>img/computer.png</file>
+        <file>img/contact.png</file>
+        <file>img/dayOff.png</file>
+        <file>img/delete.png</file>
+        <file>img/edit.png</file>
+        <file>img/find.png</file>
+        <file>img/finish.png</file>
+        <file>img/key.png</file>
+        <file>img/keyword.png</file>
+        <file>img/light.png</file>
+        <file>img/log .png</file>
+        <file>img/message.png</file>
+        <file>img/name.png</file>
+        <file>img/purse.png</file>
+        <file>img/register.png</file>
+        <file>img/send.png</file>
+        <file>img/share.png</file>
+        <file>img/star1 .png</file>
+        <file>img/start.png</file>
+        <file>img/upload.png</file>
+    </qresource>
+</RCC>

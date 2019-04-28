@@ -1,0 +1,9 @@
+{"evaluate":"wwwww","star":2}
+{"evaluate":"qqqqqqqq","star":4}
+{"evaluate":"aaaaaaaaaaaaa","star":4}
+{"evaluate":"","star":1}
+{"evaluate":"","star":1}
+{"evaluate":"","star":1}
+{"evaluate":"","star":1}
+{"evaluate":"","star":1}
+{"evaluate":"vvvv","star":1}
